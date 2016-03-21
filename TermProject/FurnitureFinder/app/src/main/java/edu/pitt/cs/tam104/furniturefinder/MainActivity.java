@@ -19,7 +19,7 @@ public class MainActivity extends FragmentActivity
 
         mTabHost.addTab(
                 mTabHost.newTabSpec("tab1").setIndicator("Map", null),
-                MapFragment.class, null);
+                MapTab.class, null);
         mTabHost.addTab(
                 mTabHost.newTabSpec("tab2").setIndicator("Favorites", null),
                 FavoriteTab.class, null);
