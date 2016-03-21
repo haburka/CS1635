@@ -1,0 +1,18 @@
+﻿Revert "Added Tabs"
+
+This reverts commit 7fa40fed4e39f5a42d61b30e00e88f387ecb71e4.
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch fixing
+# Changes to be committed:
+#	modified:   TermProject/FurnitureFinder/app/build.gradle
+#	deleted:    TermProject/FurnitureFinder/app/src/main/java/edu/pitt/cs/tam104/furniturefinder/FavoriteTab.java
+#	modified:   TermProject/FurnitureFinder/app/src/main/java/edu/pitt/cs/tam104/furniturefinder/MainActivity.java
+#	deleted:    TermProject/FurnitureFinder/app/src/main/java/edu/pitt/cs/tam104/furniturefinder/ManageTab.java
+#	modified:   TermProject/FurnitureFinder/app/src/main/res/layout/activity_main.xml
+#	deleted:    TermProject/FurnitureFinder/app/src/main/res/layout/favorite_layout.xml
+#	deleted:    TermProject/FurnitureFinder/app/src/main/res/layout/manage_layout.xml
+#	deleted:    TermProject/FurnitureFinder/app/src/main/res/layout/map_layout.xml
+#
+
