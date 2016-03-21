@@ -30,7 +30,7 @@ public class MapFragment extends Fragment {
                 false);
         mMapView = (MapView) v.findViewById(R.id.mapView);
         mMapView.onCreate(savedInstanceState);
-git
+
         mMapView.onResume();// needed to get the map to display immediately
 
         try {
