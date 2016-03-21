@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
 
         mTabHost.addTab(
                 mTabHost.newTabSpec("tab1").setIndicator("Map", null),
-                MapTab.class, null);
+                MapsActivity.class, null);
         mTabHost.addTab(
                 mTabHost.newTabSpec("tab2").setIndicator("Favorites", null),
                 FavoriteTab.class, null);
